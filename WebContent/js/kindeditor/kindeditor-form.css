@@ -1,0 +1,124 @@
+@CHARSET "UTF-8";
+
+.ke-icon-example {
+	background-image: url(./themes/default/default.png);
+	background-position: 0px -672px;
+	width: 17px;
+	height: 16px;
+}
+
+.ke-icon-example2 {
+	background-image: url(./themes/default/default.png);
+	background-position: 0px -672px;
+	width: 17px;
+	height: 16px;
+}
+
+.ke-icon-input {
+	background-image: url(./themes/default/default.png);
+	background-position: 0px -1248px;
+	width: 17px;
+	height: 16px;
+}
+
+.ke-icon-textarea {
+	background-image: url(./themes/default/default.png);
+	background-position: 0px -1263px;
+	width: 17px;
+	height: 16px;
+}
+
+.ke-icon-select {
+	background-image: url(./themes/default/default.png);
+	background-position: 0px -1278px;
+	width: 17px;
+	height: 16px;
+}
+
+.ke-icon-checkbox {
+	background-image: url(./themes/default/default.png);
+	background-position: 0px -1309px;
+	width: 17px;
+	height: 16px;
+}
+
+.ke-icon-radio {
+	background-image: url(./themes/default/default.png);
+	background-position: 0px -1325px;
+	width: 17px;
+	height: 16px;
+}
+
+.ke-icon-farmul {
+	background-image: url(./themes/default/default.png);
+	background-position: 0px -1342px;  
+	width: 17px;
+	height: 16px;
+}
+
+.ke-icon-stamp {
+	background-image: url(./themes/default/default.png);
+	background-position: 0px -1358px;
+	width: 17px;
+	height: 16px;
+}
+
+.ke-icon-save {
+	background-image: url(./themes/default/default.png);
+	background-position: 0px -1374px;
+	width: 17px;
+	height: 16px;
+}
+
+.ke-icon-datepicker {
+	background-image: url(./themes/default/default.png);
+	background-position: 0px -1390px;
+	width: 17px;
+	height: 16px;
+}
+
+/**Form Dialog Select CSS Option**/
+.win_row {
+	margin-top: 5px;
+	width: 100%;
+	height: 28px;
+	line-height: 28px;
+}
+
+.win_column_label {
+	float: left;
+	width: 150px;
+	margin-left: 20px;
+}
+
+.win_column_content{
+	float: left;
+	width: 160px;
+}
+
+.win_column_content input{
+	width: 188px;
+	height: 16px;
+	font-size: 12px;
+}
+ 
+.win_column_content select{
+	width: 194px;
+	height: 23px;
+	font-size: 12px;
+}
+
+label{
+	margin-left:10px; 
+	text-align: right; 
+	display: inline-block; 
+	vertical-align: middle;
+}
+
+input[type="checkbox"]{
+	vertical-align: middle;
+}
+
+.datebox{
+	line-height: 20px;
+}
